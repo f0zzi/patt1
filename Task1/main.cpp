@@ -5,6 +5,6 @@ using namespace std;
 int main()
 {
 	Application app;
-	system("pause");
+	app.Interact();
 	return 0;
 }
